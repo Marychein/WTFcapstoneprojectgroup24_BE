@@ -1,14 +1,14 @@
- 🌞 SunBridge
+ 🌞 SunFi
 
  Connecting SMEs to Reliable Solar Energy Solutions
 
  📌 Project Overview
 
-**SunBridge** is a digital platform designed to bridge the gap between Small and Medium-Sized Enterprises (SMEs) and trusted solar energy vendors in Nigeria and across Africa.
+**SunFi** is a digital platform designed to bridge the gap between Small and Medium-Sized Enterprises (SMEs) and trusted solar energy vendors in Nigeria and across Africa.
 
 The platform enables SMEs to discover, compare, and connect with verified solar providers while receiving simplified advisory support to guide system selection, usage, and basic maintenance.
 
-SunBridge aligns with **Sustainable Development Goal 7 (SDG 7): Affordable and Clean Energy**, by improving access to clean, reliable, and cost-effective energy solutions for SMEs.
+SunFi aligns with **Sustainable Development Goal 7 (SDG 7): Affordable and Clean Energy**, by improving access to clean, reliable, and cost-effective energy solutions for SMEs.
 
  🎯 Problem Statement
 
@@ -21,11 +21,11 @@ Although solar energy provides a sustainable alternative, adoption remains low d
 * Poor post-installation support
 * Lack of accessible advisory guidance
 
-SunBridge addresses these challenges by providing a structured digital ecosystem for solar adoption.
+SunFi addresses these challenges by providing a structured digital ecosystem for solar adoption.
 
 🚀 Solution
 
-SunBridge provides:
+SunFi provides:
 
 * 🔎 **Vendor Discovery & Verification** – SMEs can find and connect with vetted solar vendors.
 * 📊 **Solar Advisory Support** – Guidance to help SMEs choose appropriate systems.
@@ -127,13 +127,6 @@ SDG 7 – Affordable and Clean Energy**
 This project is developed for academic and innovation purposes.
 License to be determined.
 
-Perfect 👌🏽 I’ll extend your README with:
-
-1. ✅ **Contribution Guidelines (for your capstone team)**
-2. ✅ **Suggested Folder Structure (clean and scalable)**
-
-You can paste this directly into your existing README under the appropriate sections.
-
 
 🤝 Contribution Guidelines
 
@@ -213,10 +206,10 @@ feat: add SME energy needs assessment form
 
  📁 Suggested Project Folder Structure
 
-Here is a clean and scalable structure for SunBridge:
+Here is a clean and scalable structure for SunFi:
 
 ```
-sunbridge/
+sunFi/
 │
 ├── frontend/
 │   ├── public/
