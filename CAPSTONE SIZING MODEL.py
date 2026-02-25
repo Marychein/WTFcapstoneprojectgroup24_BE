@@ -116,10 +116,10 @@ print("\nRecommended System size (KW):", round(prediction[0], 2))
 
 # Generate Predictions
 
-# Create feature matrix again (same features used during training)
+# to Create feature matrix again (same features used during training)
 X_full = df[features]
 
-# Generate predictions for ALL rows
+# to Generate predictions for ALL rows
 predictions = model.predict(X_full)
 
 # Add predictions as new column
@@ -128,7 +128,7 @@ df['predicted_system_size_kw'] = predictions
 print("Predicted column added successfully!")
 print(df[['predicted_system_size_kw']].head())
 
-COST_PER_KW = 550000  # adjust if needed
+COST_PER_KW = 550000 
 
 df["installation_cost"] = (
     df["predicted_system_size_kw"] * COST_PER_KW
@@ -166,6 +166,7 @@ print(df[[
     "predicted_system_size_kw",
     "size_difference"
 ]].head())
+
 
 
 print(df.columns)
